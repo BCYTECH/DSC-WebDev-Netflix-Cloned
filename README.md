@@ -15,5 +15,5 @@ Display, Span, Images, Block, Inline, Inline-block, Flexbox, CSS grid, Columns A
 - Harjot Singh
 
 ### Special thanks to DSC Brunel & Zaio for making this happen
-- ![Zaio](https://www.zaio.io/)
-- ![DSC Brunel](dsc.community.dev/brunel-university-london/)
+<img src="https://d33wubrfki0l68.cloudfront.net/6028c16267fd3dfae7a089a32a0df6f590e01662/e8bbe/_next/static/images/logo_blue-8ff099701b53f0f7019bbca03c73cccc.png" width="100">
+<img src="https://i.ytimg.com/vi/pVU0g9mIefA/maxresdefault_live.jpg" width="150">
